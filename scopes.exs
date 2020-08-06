@@ -1,7 +1,7 @@
 content = "Now is time"
 
 # _installassistant:*:25:25:Install Assistant:/var/empty:/usr/bin/false
-# _lp:*:26:26:Printing Services:/var/spool/cups:/usr/bin/false
+# _lp:*:2642342:262423:Printing Services:/var/spool/cups:/usr/bin/false
 # _postfix:*:27:27:Postfix Mail Server:/var/spool/postfix:/usr/bin/false
 
 lp=
